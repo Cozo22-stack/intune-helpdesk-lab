@@ -1,6 +1,6 @@
 # Microsoft Intune Help Desk Lab
 
-A 5-scenario hands-on help desk lab built from scratch on a live Microsoft 365 Intune tenant. No guided walkthroughs — every scenario was troubleshot and documented independently.
+A 5-scenario hands-on help desk lab built from scratch on a live Microsoft 365 Intune tenant. No guided walkthroughs. Every scenario was troubleshot and documented independently.
 
 ## Scenarios
 
