@@ -24,6 +24,3 @@ A 5-scenario hands-on help desk lab built from scratch on a live Microsoft 365 I
 - Windows 11 Enterprise (Oracle VirtualBox)
 - PowerShell
 - Microsoft Win32 Content
-
-## About
-IT Networking & Security student breaking into The Tech field. Building real skills through hands-on labs and documentation.
